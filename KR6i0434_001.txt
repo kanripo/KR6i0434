@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:32.076782
+#+DATE: 2015-08-30 20:19:33.329788
 #+TITLE: 佛說頞多和多耆經
 #+PROPERTY: CBETA_ID T17n0740
 #+PROPERTY: ID KR6i0434
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 740
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0434_T_000-0543a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0434_T_001-0543a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.740¶
-
- 《佛說頞多和多耆經》¶
+No. 740¶
+《佛說頞多和多耆經》¶
 ¶
 失譯人今附西晉錄¶
 
