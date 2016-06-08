@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:33.329788
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:35
 #+TITLE: 佛說頞多和多耆經
 #+PROPERTY: CBETA_ID T17n0740
 #+PROPERTY: ID KR6i0434
